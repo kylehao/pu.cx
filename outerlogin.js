@@ -1,4 +1,4 @@
-function checkInput()
+﻿function checkInput()
 {
 var inputUin=document.form1.uin,
 inputPwd=document.form1.pwd;
